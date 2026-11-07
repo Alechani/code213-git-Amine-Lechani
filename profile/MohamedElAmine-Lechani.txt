@@ -1,8 +1,12 @@
 Hello! Im Amine 19 years old from Algeria currently studying the cybersecurity BTS at code213.
-I had a little experience in web development field with learning HTML, CSS and im willing to learn more languages in the future.
+I had a little experience in web development field with learning HTML, CSS and im willing to learn more languages in the future
 But since i was young my passion was always the cybersecurity so im so glad to have this opportunity to learn more about it.
+
+---------------------------------------------------------------------------------------------------------------------------------------
 
 And some of the skills that i want to master during this process are:
 -Writing clear commit messages by making small, focused commits with messages that explain what changed and why.
+
 -Using branches and merging like creating a branch for new work, then merging it back safely and resolving conflicts when they come up.
+
 -Keeping secrets out of Git by using a .gitignore file so passwords, API keys, and config files with credentials never get committed.
