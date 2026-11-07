@@ -1,0 +1,5 @@
+The four security practices every developer should follow: 
+-Make small, focused commits.
+-Check your dependencies.
+-Use the right Git identity.
+-Run tests and security checks locally.
